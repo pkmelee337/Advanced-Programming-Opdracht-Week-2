@@ -1,0 +1,16 @@
+-	Importeer het Eclipse-archive les2.zip, welke je op Sharepoint kan
+vinden
+-	Review de code op basis van tot nu behandelde criteria en
+zelfbedachte criteria door middel van comments
+-	Maak een kopie en refactor het project
+-	Laat de top 5 belangrijkste refactor-wijzigingen (side by side) zien in
+een kleine Powerpoint-presentatie of verslagje, voorzien van titel,
+datum, jullie namen en studentnummers
+-	Stel de presentatie/het verslag beschikbaar via een download
+(bijvoorbeeld Dropbox)
+-	Op verzoek moet je ook de beide Eclipse-projecten kunnen tonen
+-	Je kan in de volgende les gevraagd worden om je (deel)uitwerking te
+presenteren
+-	Bonus: kijk wat je met PMD (themaopdracht) had kunnen doen om de
+code te reviewen en te refactoren en neem dit op in je verslagje
+3
